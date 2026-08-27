@@ -1,3 +1,5 @@
+yet a lot of changes to be made
+
 This is the complete editable source for Devansh Mishra's animated full-stack portfolio. It is built with React, TypeScript, Vinext/Vite, GSAP, Lenis, CSS, Cloudflare D1, and Drizzle ORM.
 
 Live reference: https://devansh-motion-portfolio.dm7903337.chatgpt.site
